@@ -1,0 +1,4 @@
+2021-05-28 11:53:50,871 : DEBUG : This is just f : pytest_demo.log_test
+2021-05-28 11:59:51,313 : DEBUG : This is just f : pytest_demo.log_test
+2021-05-28 12:02:38,289 : DEBUG : This is just f : pytest_demo.log_test
+2021-05-28 12:05:15,754 : DEBUG : This is just f : pytest_demo.log_test
